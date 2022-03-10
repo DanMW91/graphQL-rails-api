@@ -18,6 +18,7 @@ gem 'puma', '~> 4.1'
 gem 'graphql'
 gem 'omniauth'
 gem 'graphql_devise'
+gem "graphiql-rails"
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
